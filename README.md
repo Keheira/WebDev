@@ -1,3 +1,3 @@
 HTML-CSS
 ========
-This holds any HTML and CSS projects I create.
+This holds any HTML and CSS projects I have created when taking online lessons.
