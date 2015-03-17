@@ -1,0 +1,29 @@
+html{
+	background: black;
+}
+.nav-bar li{
+	display: inline-block;
+}
+.nav-bar a,.nav-bar a:hover,.nav-bar a:visited{
+    color: white;
+}
+#current a, #current a:hover,#current a:visited{
+    color:#FDB927;
+}
+.title{
+	text-align: center;
+}
+h1{
+	color:#004684;
+}
+h2{
+	color:#FDB927;
+}
+p, ul{
+	color: white;
+	padding-top: -25px;
+}
+footer{
+    color: white;
+    text-align: center;
+}

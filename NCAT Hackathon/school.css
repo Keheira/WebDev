@@ -1,0 +1,21 @@
+html{
+	background: black;
+}
+.nav-bar li{
+	display: inline-block;
+}
+.nav-bar a,.nav-bar a:hover,.nav-bar a:visited{
+    color: white;
+}
+#current a, #current a:hover,#current a:visited{
+    color:#FDB927;
+}
+main{
+    float:left;
+}
+h2{
+    text-align: center;
+}
+img{
+    text-align: left;
+}
